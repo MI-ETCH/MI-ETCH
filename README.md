@@ -5,7 +5,7 @@
 ![Welcome Animation](https://example.com/welcome-animation.gif)
 
 
-- 🌱 I’m currently learning **"Biostatistics, data manager, Clinical Research, Epidemiology"**
+- 🌱 I’m currently learning **"Biostatistics, data manager, Clinical Research, Epidemiology, Nutrition"**
 
 
 <h3 align="left">Connect with me:</h3>
