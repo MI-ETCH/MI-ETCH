@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Clinical Research, Epidemiology & Statistic**
 
-- 🌱 I’m currently learning **"Biostatistics, Clinical Research, Epidemiology"**
+- 🌱 I learned **"Biostatistics, Clinical Research, Epidemiology"**
 
 - 💬 Ask me about **Artificial Intelligence**
 
