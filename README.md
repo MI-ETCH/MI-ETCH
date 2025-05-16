@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Etien </h1>
-<h3 align="center">A passionate Methodology and Biostatistics</h3>
+<h3 align="center">A passionate Methodology, Data management and Biostatistics</h3>
 
 - 🔭 I’m currently working on **Clinical Research, Epidemiology & Statistic**
 
-- 🌱 I learned **"Biostatistics, Clinical Research, Epidemiology"**
+- 🌱 I learned **"Biostatistics, Clinical Research, Epidemiology, Data management"**
 
 - 💬 Ask me about **Artificial Intelligence**
 
