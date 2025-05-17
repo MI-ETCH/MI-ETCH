@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Etien </h1>
-<h3 align="center">A passionate Methodology, Data management and Biostatistics</h3>
+<h3 align="center">A passionate Methodology, Data management, Biostatistics and Clinical Research </h3>
 
 - 🔭 I’m currently working on **Clinical Research, Epidemiology & Statistic**
 
