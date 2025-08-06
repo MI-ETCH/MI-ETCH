@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Etien, welcome to my Porfolio </h1>
+<h1 align="center">Hi 👋, I'm Etienne, welcome to my Porfolio </h1>
 <h3 align="center"> Passionate about Methodology, Clinical Research, Data management and Biostatistics  </h3>
 
 - 🔭 I’m currently working on **Clinical Research, Epidemiology & Statistic**
