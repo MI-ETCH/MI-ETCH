@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Etienne and welcome to my Porfolio </h1>
-<h3 align="center"> Passionate about Methodology, Clinical Research, Data management and Biostatistics  </h3>
+<h3 align="center"> Passionate about Methodology, Clinical Research, Data management  </h3>
 
 - 🔭 I’m currently working on **Clinical Research, Epidemiology & Statistic**
 
-- 🌱 I learned **"Biostatistics, Clinical Research, Epidemiology, Data management"**
+- 🌱 I learned **" Clinical Research, Epidemiology, Data management"**
 
 - 💬 Ask me about **Artificial Intelligence**
 
