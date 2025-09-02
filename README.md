@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Etien and welcome to my Porfolio </h1>
-<h3 align="center"> Passionate about Biostatistics, Methodology, Data management  </h3>
+<h3 align="center"> Passionate about  Data management, Biostatistics and Methodology  </h3>
 
-- 🔭 I’m currently working on **Biostatistics, Epidemiology & Statistic**
+- 🔭 I’m currently working on **Data management, Biostatistics, Epidemiology & Statistic**
 
-- 🌱 I learned **" Biostatistics, Epidemiology, Data management"**
+- 🌱 I learned **" Data management, Biostatistics, Epidemiology "**
 
 - 💬 Ask me about **Artificial Intelligence**
 
